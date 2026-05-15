@@ -1,4 +1,4 @@
-# 🚀 Learn JavaScript - Code With Harry
+#  Learn JavaScript 
 
 Learning JavaScript from scratch following Code with Harry's playlist.
 
