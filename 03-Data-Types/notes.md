@@ -1,4 +1,5 @@
 "#Primitive Datatypes - NNSSBBU"
+
 N- Null
 N- Number
 S- Symbol
